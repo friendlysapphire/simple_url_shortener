@@ -32,4 +32,4 @@ This project was a learning exercise and isn't meant to be production-ready code
 
 ## License
 
-Code and documentation are available according to the MIT License.
+Code and documentation are available according to the MIT License. (See [LICENSE](https://github.com/friendlysapphire/simple_url_shortener/blob/main/LICENSE))
