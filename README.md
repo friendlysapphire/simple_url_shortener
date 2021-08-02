@@ -11,7 +11,8 @@ It supports the following routes:
         Loads the page to create a new short URL.
 
     * /stats/
-        Shows information about existing short URLs, including the option to delete. Also shows the live host and port information.
+        Shows information about existing short URLs, including the option to delete.
+        Also shows the live host and port information.
 
     * /<short url>
         Redirects to the full URL associated with the supplied short URL.
